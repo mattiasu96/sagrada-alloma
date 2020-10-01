@@ -13,7 +13,7 @@ _SERVER + TESTS_: **Alberto Tiraboschi** [@bertox94](https://github.com/Bertox94
 
 ## 1.Introduction
 
-We proudly present a full working software version of the well-known table-game: SAGRADA.
+We proudly present a full working software version of the well-known table-game: SAGRADA (https://boardgamegeek.com/boardgame/199561/sagrada).
 
 _What do I need to know?_ -The packages are split in three: Server, Client, Shared. You will need to have either Server or Client and Shared on each host. If you want to play over LAN then you first need to run the `sagrada_server.jar`, e.g.
 ```
